@@ -61,7 +61,7 @@ chmod 700 bamtofastq_linux
 ./bamtofastq_linux nthreads=8 test.bam test
  
 # nthreads is optional (default = 4)
-./bamtofastq <input.bam> <output directory>
+./bamtofastq_linux <input.bam> <output directory>
 ```
 
 
