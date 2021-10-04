@@ -18,7 +18,7 @@
 
 ### Getting an input BAM file downloaded from NCBI SRA
 
-- Option 1: using **wget <BAM file location>**
+- Option 1: using **wget <BAM file URL>**
 
 ```bash
 wget https://sra-download.ncbi.nlm.nih.gov/traces/sra38/SRZ/011947/SRR11947587/10X25_4_A_1.bam
