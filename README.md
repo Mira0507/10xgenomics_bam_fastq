@@ -58,7 +58,7 @@ chmod 700 bamtofastq_linux
 - Run `bamtofastq` (interactive session required if needed)
 
 ```bash
-./bamtofastq nthreads=8 test.bam
+./bamtofastq_linux nthreads=8 test.bam
 ```
 
 
